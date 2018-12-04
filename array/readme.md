@@ -54,3 +54,14 @@ isEqual = Arrays.deepEquals(newArray1, newArray2); //true
         return true;
     }
 ```
+
+## Arrays in Java
+* Clonable
+* Linear Array - One dimentional array
+* Two dimentional array - matrix
+* Multidimentional Array
+* ArrayIndexOutOfBoundsException
+## Cloning of Arrays
+* one dimentional array - clone - deep copy
+* multidimentional array - clone - shallow copy
+
